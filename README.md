@@ -11,3 +11,4 @@
 ## Guidelines
   - Software Engineering concepts must be followed like the **SOLID** principles.
   - this service must be designed as a **modular-monolith** project where each **module** can be exrtacted and used as a standalone service on scaling is needed.
+  - This project will use **Python** because it is most suitable for AI/ Data Science projects, but other projects may use different projects 
